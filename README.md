@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning [Xamarin](https://dotnet.microsoft.com/apps/xamarin), [Azure Cognitive Services](https://azure.microsoft.com/en-in/services/cognitive-services)
 - 💬 Ask me about `Kubernets`, `Azure`, `Python`
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=prabdeb&count_private=true&theme=tokyonight&showicons=true&show_icons=true&include_all_commits=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=prabdeb&count_private=true&theme=solarized-light&showicons=true&show_icons=true&include_all_commits=true)
 
-![My GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prabdeb&langs_count=5&theme=tokyonight&hide=Perl,CSS,HTML&layout=compact)
+![My GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prabdeb&langs_count=5&theme=solarized-light&hide=Perl,CSS,HTML&layout=compact)
 
 ### Published Posts
 
