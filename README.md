@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 ### Published Posts
 
+- [Azure OpenAI in IoT device (your personalised chatbot)](https://medium.com/@prbldeb/azure-openai-in-iot-device-your-personalised-chatbot-b00ede7848)
 - [Automated Test Environment for Azure Kubernetes Service (AKS) Applications — using kind](https://medium.com/microsoftazure/automated-test-environment-for-azure-kubernetes-service-aks-applications-using-kind-f9fdbd2e8894)
 - [Dealing with Helm Charts of micro-services with interdependent API end points](https://medium.com/@prbldeb/dealing-with-helm-charts-of-micro-services-with-interdependent-api-end-points-2fe9b508e484)
 - [Mocking during Python Unit Testing with Azure Event Hubs and SQL Database](https://medium.com/@prbldeb/mocking-during-python-unit-testing-with-azure-event-hubs-and-sql-database-d32ee6b9ebcc)
