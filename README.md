@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 ### Hi there, I'm Prabal Deb 👋
 
 - 🔭 I’m currently working on few [Azure-Samples](https://github.com/Azure-Samples)
-- 🌱 I’m currently learning MLOps in depth
-- 💬 Ask me about `Kubernets`, `Azure`, `Python`, `MLOps`
+- 🌱 I’m currently learning LLM and LLMOps in depth
+- 💬 Ask me about `Kubernets`, `Azure`, `Python`, `MLOps`, `LLM`, `LLMOps`
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=prabdeb&count_private=true&theme=solarized-light&showicons=true&show_icons=true&include_all_commits=true)
 
@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 
 ### Contributed in Posts
 
+- [Azure Architecture Center: Baseline OpenAI end-to-end chat reference architecture](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/baseline-openai-e2e-chat)
 - [Azure Architecture Center: Orchestrate MLOps on Azure Databricks using Databricks Notebook](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/ai/orchestrate-mlops-azure-databricks)
 - [Patterns for Vision on the Edge - Part 1 - Concurrent processing](https://ankitbko.github.io/blog/2022/06/vision-on-edge-part-1/)
 - [Patterns for Vision on the Edge - Part 2 - Handling Multiple Consumers](https://ankitbko.github.io/blog/2022/06/vision-on-edge-part-2/)
