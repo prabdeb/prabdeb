@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning LLM and LLMOps in depth
 - 💬 Ask me about `Kubernets`, `Azure`, `Python`, `MLOps`, `LLM`, `LLMOps`
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=prabdeb&count_private=true&theme=solarized-light&showicons=true&show_icons=true&include_all_commits=true)
+![prabdeb's Stats](https://github-readme-stats.vercel.app/api?username=prabdeb&theme=vue&show_icons=true&hide_border=true&count_private=true)
 
-![My GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prabdeb&langs_count=5&theme=solarized-light&hide=Perl,CSS,HTML&layout=compact)
+![prabdeb's Streak](https://github-readme-streak-stats.herokuapp.com/?user=prabdeb&theme=vue&hide_border=true)
+
+![prabdeb's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prabdeb&theme=vue&show_icons=true&hide_border=true&layout=compact)
 
 ### Published Posts
 
