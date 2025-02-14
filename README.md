@@ -19,12 +19,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning LLM and LLMOps in depth
 - 💬 Ask me about `Kubernets`, `Azure`, `Python`, `MLOps`, `LLM`, `LLMOps`
 
-![prabdeb's Stats](https://github-readme-stats.vercel.app/api?username=prabdeb&theme=vue&show_icons=true&hide_border=true&count_private=true)
-
-![prabdeb's Streak](https://github-readme-streak-stats.herokuapp.com/?user=prabdeb&theme=vue&hide_border=true)
-
-![prabdeb's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prabdeb&theme=vue&show_icons=true&hide_border=true&layout=compact)
-
 ### Published Posts
 
 - [Azure OpenAI in IoT device (your personalised chatbot)](https://medium.com/@prbldeb/azure-openai-in-iot-device-your-personalised-chatbot-b00ede7848)
@@ -34,6 +28,7 @@ Here are some ideas to get you started:
 
 ### Contributed in Posts
 
+- [Azure Architecture Center: Design and develop a RAG solution](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-solution-design-and-evaluation-guide)
 - [Azure Architecture Center: Baseline OpenAI end-to-end chat reference architecture](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/baseline-openai-e2e-chat)
 - [Azure Architecture Center: Orchestrate MLOps on Azure Databricks using Databricks Notebook](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/ai/orchestrate-mlops-azure-databricks)
 - [Patterns for Vision on the Edge - Part 1 - Concurrent processing](https://ankitbko.github.io/blog/2022/06/vision-on-edge-part-1/)
