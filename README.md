@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning LLM and LLMOps in depth
 - 💬 Ask me about `Kubernets`, `Azure`, `Python`, `MLOps`, `LLM`, `LLMOps`
 
+### Research Work
+
+- [MARK: Memory Augmented Refinement of Knowledge](https://arxiv.org/abs/2505.05177)
+
 ### Published Posts
 
 - [LLMAgentOps Toolkit for Semantic Kernel](https://devblogs.microsoft.com/semantic-kernel/guest-blog-llmagentops-toolkit-for-semantic-kernel/)
